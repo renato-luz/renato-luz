@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!+👋;I'm+Renato+Luz!!&center=true&size=30"> 
+ </a>
+</h1>
 
-<!--
-**renato-luz/renato-luz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <span>👨‍💻 I'm a computer engineering student at Polytechnic Institute of Leiria.</span> <br>
+  <span>🌟 I'm currently focused on learning React and have plans to delve into Laravel/Node.js in the near future.</span> <br>
+  <span>🚀 I aspire to become a full-stack developer, crafting seamless user experiences and robust server-side solutions.</span> <br>
+  <span>🌐 I love building web applications that provide efficient and delightful user experiences.</span> <br>
+  <h2> ⚡ Current Projects ⚡ </h2>
 
-Here are some ideas to get you started:
+ 🌦️ **WeatherMap:** A weather forecasting application that I'm currently developing. Check it out [here](https://renato-luz.github.io/weatherApp/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **Pokedex:** Another exciting project I'm working on, a Pokedex application. You can find the repository [here](https://renato-luz.github.io/Pokedex/).
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renato-luz&show_icons=true&theme=transparent)
+
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/renatoluz21) 
+</div>
+
+
