@@ -13,7 +13,7 @@
 
  🌦️ **WeatherMap:** A weather forecasting application that I'm currently developing. Check it out [here](https://renato-luz.github.io/weatherApp/) 
 
-🔍 **Pokedex:** Another exciting project I'm working on, a Pokedex application. You can find the repository [here](https://renato-luz.github.io/Pokedex/).
+🔍 **Pokedex:** Another exciting project I'm working on, a Pokedex application. Check it out [here](https://renato-luz.github.io/Pokedex/).
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renato-luz&show_icons=true&theme=transparent)
 
