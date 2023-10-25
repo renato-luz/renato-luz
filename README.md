@@ -3,7 +3,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Hello+There!+👋;I'm+Renato+Luz!!&center=true&size=30"> 
  </a>
 </h1>
-
 <div align="center">
   <span>👨‍💻 I'm a computer engineering student at Polytechnic Institute of Leiria.</span> <br>
   <span>🌟 I'm currently focused on learning React and have plans to delve into Laravel/Node.js in the near future.</span> <br>
