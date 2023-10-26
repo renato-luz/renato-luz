@@ -17,7 +17,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=renato-luz&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/renatoluz21) 
 </div>
 
